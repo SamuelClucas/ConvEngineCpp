@@ -1,4 +1,4 @@
-# ConvEngineCpp – A Hand-Rolled Convolutional Neural Network in C++
+# Convolutional Bloc – A Hand-Rolled C++ Convolutional Feature Extractor for RGB and Greyscale Object Detection
 
 This repository contains an archived implementation of a forward-only convolutional neural network engine written entirely in C++. It was developed as a personal exercise to deepen understanding of spatial feature processing, image-based object detection, and systems-level software design.
 
