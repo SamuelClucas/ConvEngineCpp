@@ -22,7 +22,6 @@ The focus throughout was on clarity, minimalism, and precision in memory layout 
 
 - `kernel.cpp/.h` – Convolution layer implementation
 - `feature_map.h` – Core multidimensional feature tensor structure
-- `object_detector.cpp/.h` – Detection pipeline and polygon prediction
 - `main.cpp` – Prototype training script
 - `sample.h` – Templated Image class using inheritance 
 
